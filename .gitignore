@@ -1,0 +1,10 @@
+config.local.json
+*.log
+*.pid
+node_modules/
+data/
+backups/
+*.csv
+*.pdf
+.env
+.env.*
